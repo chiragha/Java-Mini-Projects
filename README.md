@@ -38,11 +38,11 @@ A Chatting App made in Java using concept of Socket Programming that allows comm
 
 Open two seperate terminal/command-prompt windows and then from project directory:
 
-1- cd bin (On both windows)
 
-2- java Server (On one window)
 
-3- java Client (On other window)
+1- java Server (On one window)
+
+2- java Client (On other window)
 
 Now you can type messages in either the Client or Server window and press the "Send" button to send the message.
 
