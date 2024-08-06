@@ -1,4 +1,4 @@
-# Temperature Converter
+![image](https://github.com/user-attachments/assets/cc697de1-d9c7-4340-9222-51444b641581)# Temperature Converter
 A very basic application created using Java Swing.
 
 ## Thank You!
@@ -44,9 +44,40 @@ Open two seperate terminal/command-prompt windows and then from project director
 
 2- java Client (On other window)
 
+
 Now you can type messages in either the Client or Server window and press the "Send" button to send the message.
 
 Note- Server should be started before running the Client.
+
+
+
+
+# Quiz Application
+
+![qui1](https://github.com/user-attachments/assets/c548b9e2-2fe3-44ac-b66e-9ef725608e06)
+
+![qui2](https://github.com/user-attachments/assets/b4d52a2f-df72-4e9a-a6e3-a057af4b2d18)
+
+![qui3](https://github.com/user-attachments/assets/56131184-9a1d-4cc1-9588-7d5cf2a957fc)
+
+![qui4](https://github.com/user-attachments/assets/b4ba245e-fafc-40bf-b048-2cffadb9d020)
+
+
+
+# ICECREAM Shop
+
+![ishop2](https://github.com/user-attachments/assets/8df547e2-6f05-482b-9310-fb7866c0b281)
+
+![ishop1](https://github.com/user-attachments/assets/99ba511c-0060-4a9a-8920-35874ff6de3f)
+
+
+#Billing-System
+
+![bill](https://github.com/user-attachments/assets/f0f8901d-2f33-4da7-8e54-1cfeaa914d44)
+
+
+
+
 
 
 
