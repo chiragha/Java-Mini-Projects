@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/cc697de1-d9c7-4340-9222-51444b641581)# Temperature Converter
+# Temperature Converter
+
 A very basic application created using Java Swing.
 
 ## Thank You!
@@ -71,7 +72,7 @@ Note- Server should be started before running the Client.
 ![ishop1](https://github.com/user-attachments/assets/99ba511c-0060-4a9a-8920-35874ff6de3f)
 
 
-#Billing-System
+# Billing-System
 
 ![bill](https://github.com/user-attachments/assets/f0f8901d-2f33-4da7-8e54-1cfeaa914d44)
 
