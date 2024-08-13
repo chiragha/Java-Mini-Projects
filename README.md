@@ -97,6 +97,9 @@ Note- Server should be started before running the Client.
 ![javaloanpay](https://github.com/user-attachments/assets/de9a6fa2-f585-425a-bf22-d4aec838bcd0)
 
 
+# Student Grading System
+
+![studgrad](https://github.com/user-attachments/assets/9279f14f-9514-4737-8aaa-b5221ae5355d)
 
 
 
