@@ -43,5 +43,15 @@ create table student(name varchar(40), fname varchar(40) , rollno varchar(20), d
 select * from student;
 ```
 
+
+# Screenshots
+
+![studadd](https://github.com/user-attachments/assets/973f9358-44cb-40f9-a954-34447f5b7454)
+
+
+![seedetail](https://github.com/user-attachments/assets/1aed2d25-1cd3-4c6b-91b1-72e9b44ba49f)
+
+
+
 Thank you for using the Student Management System. If you have any questions or suggestions, please feel free to reach out.
 Have a great day!
