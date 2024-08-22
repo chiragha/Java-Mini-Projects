@@ -1,8 +1,9 @@
 # Product-Management-System
 
 ## Admin page
-id - admin
-password - 12345
+* id - admin
+* password - 12345
+  
 
 ![proadmin](https://github.com/user-attachments/assets/6620a586-fb90-40c5-a044-77580ab5fcf2)
 
