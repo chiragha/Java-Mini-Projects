@@ -14,11 +14,14 @@
 
 ### You can search for vacant seats by using the date.
 
-![before booking tckt](https://github.com/user-attachments/assets/dfa762f1-a035-433e-a3a9-a385502a6411)
+![seatchtckttain](https://github.com/user-attachments/assets/89cc9b19-2e00-4d6f-922c-a251eb65229c)
 
 
 ### Once the ticket is booked its status will change
 
-![seatchtckttain](https://github.com/user-attachments/assets/89cc9b19-2e00-4d6f-922c-a251eb65229c)
+
+![before booking tckt](https://github.com/user-attachments/assets/dfa762f1-a035-433e-a3a9-a385502a6411)
+
+
 
   
