@@ -1,3 +1,31 @@
+# DataBase Code
+
+```pearl
+
+create database trainbookingsystem;
+
+show databases;
+
+use trainbookingsystem;
+
+create table seat(trainno varchar(30), seats varchar(30), date varchar(40), status varchar(30));
+select * from seat;
+
+
+create table customseats(trainno varchar(40), seats varchar(30), name varchar(30), phone varchar(30), passfrom varchar(40), passto varchar(30), passclass varchar(30), date varchar(30));
+select * from customseats;
+
+```
+
+
+
+
+
+
+
+
+
+
 ## Main page
 
 ![trainbookmain](https://github.com/user-attachments/assets/ae3a7af5-f08a-43d9-9171-72e138b27f12)
@@ -23,5 +51,6 @@
 ![before booking tckt](https://github.com/user-attachments/assets/dfa762f1-a035-433e-a3a9-a385502a6411)
 
 
+![status changed](https://github.com/user-attachments/assets/34af3664-c45c-41e1-be3a-2aeb23673ab1)
 
   
