@@ -1,6 +1,6 @@
 # DataBase Code
 
-```pearl
+```perl
 
 create database trainbookingsystem;
 
