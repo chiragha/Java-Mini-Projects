@@ -1,4 +1,4 @@
-# DtatBase
+# DataBase
 
 ```java
 create database crm;
