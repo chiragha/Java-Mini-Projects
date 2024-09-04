@@ -1,3 +1,20 @@
+# DtatBase
+
+```java
+create database crm;
+use crm;
+
+create table customer(name varchar(40), nationality varchar(30), phone varchar(40), address varchar(30), aadhar varchar(30) ,gender varchar(30));
+
+show databases;
+
+select * from customer;
+```
+
+
+
+
+
 # Main Page
 
 ![main](https://github.com/user-attachments/assets/8c7aeef5-eec4-45fa-a5ff-bb96084ec6be)
