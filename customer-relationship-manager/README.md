@@ -20,10 +20,6 @@
 
 ![update](https://github.com/user-attachments/assets/42007a41-07c5-4e3c-97c5-46db968c6a87)
 
-### After Updation
-
-![after update](https://github.com/user-attachments/assets/9d9a20bd-e3cb-49fd-8732-6e336f98e678)
-
 # Delete Page
 
 ![delete](https://github.com/user-attachments/assets/9f6bd09a-9310-4202-b8fc-3b1b06cb4c9d)
