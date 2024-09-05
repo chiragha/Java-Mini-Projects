@@ -26,7 +26,9 @@
 9. [Simple_DB_Product_Add Project](https://github.com/chiragha/Java-Mini-Projects/tree/main/Simple_DB_Product_Add%20Project)
 10. [Train-Ticket Booking System](https://github.com/chiragha/Java-Mini-Projects/tree/main/Train-Ticket%20Booking%20System)
 11. [student_Management_System](https://github.com/chiragha/Java-Mini-Projects/tree/main/student_Management_System)
-12.  [customer-relationship-manager](https://github.com/chiragha/Java-Mini-Projects/blob/main/customer-relationship-manager/README.md)
+12. [customer-relationship-manager](https://github.com/chiragha/Java-Mini-Projects/blob/main/customer-relationship-manager)
+13. [Vehicle-Registration](https://github.com/chiragha/Java-Mini-Projects/tree/main/Vehicle-Registration)
+
 
 ---
 ### Difficulty Level : Hard
