@@ -12,6 +12,7 @@
 10. [Inventory Control System](https://github.com/chiragha/Java-Mini-Projects/tree/main/Inventory%20Control%20System)
 11. [Movie-Ticket-Booking](https://github.com/chiragha/Java-Mini-Projects/tree/main/Movie-Ticket-Booking)
 12. [Student Grading System](https://github.com/chiragha/Java-Mini-Projects/tree/main/Student%20Grading%20System)
+13. [Simple_CRUD_using Table data](https://github.com/chiragha/Java-Mini-Projects/tree/main/Simple_CRUD_using%20Table%20data)
 ---
 ### Difficulty Level : Intermediate
 
