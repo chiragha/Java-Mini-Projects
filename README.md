@@ -35,7 +35,7 @@
 ### Difficulty Level : Hard
 1. [AirlineManagementSystem](https://github.com/chiragha/AirlineManagementSystem)
 2. [ATM-Simulator-System-](https://github.com/chiragha/ATM-Simulator-System-)
-3. [Library-Management-System] 
+3. [Library-Management-System](https://github.com/chiragha/Java-Mini-Projects/tree/main/Library-Management-System)
 
 ## Thank You!
 Show some ❤️  by giving the star ⭐ to this repository!!
